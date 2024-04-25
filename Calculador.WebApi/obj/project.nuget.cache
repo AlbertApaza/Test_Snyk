@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pT6q/FVi3OxaSSwKMsBbAtmDUVfW8G5pm4YO0oR1mNa2OS+1Ma56XxCII59Jtx5u/GD+Ghejtpjlz9aaoyv93w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OVALTECH\\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\\Documentos\\GitHub\\VideoTests\\calculador\\Calculador.WebApi\\Calculador.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OVALTECH\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "C:\\Users\\OVALTECH\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\OVALTECH\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\OVALTECH\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\OVALTECH\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\OVALTECH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\OVALTECH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
